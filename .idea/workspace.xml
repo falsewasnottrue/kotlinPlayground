@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6140e9a9-5d45-402a-8bad-818430a5e68c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/io/kuschel/Lambdas.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/io/kuschel/Lambda.rs" />
+        <option value="$PROJECT_DIR$/src/io/kuschel/Lambdas.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlinPlayground" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlinPlayground" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlinPlayground" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kuschel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlinPlayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlinPlayground" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kuschel" type="462c0819:PsiDirectoryNode" />
+              <item name="Lambdas" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550242437400" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.hideToolchainNotifications" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../apitree/auth-api" value="1486125199000" />
+        <entry key="$PROJECT_DIR$/../../auth-api" value="1484842033000" />
+        <entry key="$PROJECT_DIR$/../../camouflage" value="1487082710000" />
+        <entry key="$PROJECT_DIR$/../../iban" value="1487762682000" />
+        <entry key="$PROJECT_DIR$/../../szilla" value="1484812522000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../apitree/auth-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../apitree/user-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../commercetools/depup" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../commercetools/sphere-backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../exercism/scala/grade-school" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../here/hereaccount" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../here/infra/tools/warp/oceanareas" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../here/lambda-poc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../here/server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../here/warp-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../codegolf" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/accumulate" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/binary-search" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/book-store" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/clock" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/collatz-conjecture" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/difference-of-squares" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/etl" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/flatten-array" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/gigasecond" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/grains" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/hamming" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/isogram" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/matrix" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/pangram" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/perfect-numbers" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/phone-number" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/protein-translation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/raindrops" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/rna-transcription" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/robot-name" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/robot-simulator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/scrabble-score" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/secret-handshake" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/sieve" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/strain" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/triangle" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercism/scala/zipper-2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../forstmeister" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../knuth-bendix-completion" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scalafix" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../springer/grid-api-poc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../springer/nemo-cms-proxy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../springer/nemo-mail-monkey" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../springer/nemo-npo-announcement-email" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../springer/nemo-npo-importer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../springer/nemo-npo-migration" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../springer/nemo-web-feed-provider" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../springer/nemo/libs/nemo-lib-commons_2.4" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../springer/nemo/nemo-core" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../springer/nemo/nemo-lib-moodle-client" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../springer/nemo/nemo-moodle-synchronizer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../springer/nemo/nemo-webtrekk-proxy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../springer/smime-poc" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6140e9a9-5d45-402a-8bad-818430a5e68c" name="Default Changelist" comment="" />
+      <created>1550240837151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550240837151</updated>
+      <workItem from="1550240839261" duration="1184000" />
+      <workItem from="1550242551292" duration="72000" />
+      <workItem from="1550427850656" duration="538000" />
+      <workItem from="1550478203138" duration="252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2046000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Cargo" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/io/kuschel/Lambda.rs" />
+    <entry file="file://$PROJECT_DIR$/src/io/kuschel/Lambdas.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19386332" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
